@@ -1,2 +1,2 @@
 # Home-Assistant
-Smart home stuff
+Smart home stuff, always learning & just getting started with github
